@@ -1,0 +1,22 @@
+{
+  "name": "greeting-me",
+  "version": "1.0.0",
+  "description": "Greeting from npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/builtbysuraj/simple-npm-package.git"
+  },
+  "keywords": [
+    "greet"
+  ],
+  "author": "suraj gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/builtbysuraj/simple-npm-package/issues"
+  },
+  "homepage": "https://github.com/builtbysuraj/simple-npm-package#readme"
+}
